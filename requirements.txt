@@ -4,4 +4,4 @@ yfinance==0.2.25
 plotly-express==0.4.1
 stocknews==0.9.11
 streamlit-card==0.0.61
-streamlit-extras==0.1.2
+streamlit-extras==0.2.7
