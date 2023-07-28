@@ -31,7 +31,7 @@ t2.markdown("**For Detailed Documentation | GitHub:** https://github.com/Udayl56
 #      sidebar
 ##########################
              
-df=pd.read_csv('yfinance-ticker-list.csv')  # Ticker list of symbols downloading
+df=pd.read_csv('yFn_symbol.csv')  # Ticker list of symbols downloading
 choice = st.sidebar.selectbox("Select Ticker",df)
 symbol = yf.Ticker(choice)
 
