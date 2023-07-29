@@ -3,7 +3,7 @@
 
 Yfinance Ticker Stock Insights is a stock analysis and stock chart visualization app. It provides a summary and insights of the company's stock.
 
-![Alt Screenshot] (https://github.com/Udayl56/yfinance-stock-app/blob/main/appScreenshot.png)
+![appScreenshot](https://github.com/Udayl56/yfinance-stock-app/assets/105300620/177c18d7-cf2c-4f9b-8456-a5f36a683d0a)
   
  
 
